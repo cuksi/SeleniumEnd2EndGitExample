@@ -1,0 +1,7 @@
+22:19:11.852 [main] INFO  resources.Base - Successfully enterd password
+22:19:11.860 [main] INFO  resources.Base - Non Restricted User
+22:19:12.325 [main] INFO  resources.Base - Successfully clicked on login button
+22:19:14.535 [main] INFO  resources.Base - Driver is initialized
+22:19:17.234 [main] INFO  resources.Base - Navigated to home page
+22:19:18.584 [main] INFO  resources.Base - Successfully navigated to login page
+22:19:18.686 [main] INFO  resources.Base - Successfully enterd user name

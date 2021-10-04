@@ -1,0 +1,7 @@
+22:50:16.140 [main] INFO  resources.Base - Driver is initialized
+22:50:18.969 [main] INFO  resources.Base - Navigated to home page
+22:50:20.380 [main] INFO  resources.Base - Successfully navigated to login page
+22:50:20.477 [main] INFO  resources.Base - Successfully entered user name
+22:50:20.559 [main] INFO  resources.Base - Successfully entered password
+22:50:20.559 [main] INFO  resources.Base - Non Restricted User
+22:50:20.846 [main] INFO  resources.Base - Successfully clicked on login button

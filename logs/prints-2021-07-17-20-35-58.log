@@ -1,0 +1,7 @@
+20:35:56.872 [TestNG-tests-2] INFO  resources.Base - Navigated to home page
+20:35:56.953 [TestNG-tests-2] INFO  resources.Base - Navigation bar is displayed
+20:35:57.313 [TestNG-tests-4] INFO  resources.Base - Navigated to home page
+20:35:57.615 [TestNG-tests-4] INFO  resources.Base - Successfully validated e-mail
+20:35:58.272 [TestNG-tests-1] INFO  resources.Base - Successfully navigated to login page
+20:35:58.372 [TestNG-tests-1] INFO  resources.Base - Successfully entered user name
+20:35:58.469 [TestNG-tests-1] INFO  resources.Base - Successfully entered password

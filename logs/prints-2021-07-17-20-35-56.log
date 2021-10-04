@@ -1,0 +1,7 @@
+20:34:48.790 [main] INFO  resources.Base - Driver is initialized
+20:34:51.570 [main] INFO  resources.Base - Navigated to home page
+20:34:51.734 [main] INFO  resources.Base - Successfully validated e-mail
+20:35:50.891 [TestNG-tests-1] INFO  resources.Base - Driver is initialized
+20:35:50.891 [TestNG-tests-2] INFO  resources.Base - Driver is initialized
+20:35:50.888 [TestNG-tests-4] INFO  resources.Base - Driver is initialized
+20:35:56.673 [TestNG-tests-1] INFO  resources.Base - Navigated to home page

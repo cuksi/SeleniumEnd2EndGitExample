@@ -1,0 +1,6 @@
+20:33:02.756 [TestNG-tests-4] INFO  resources.Base - Successfully validated e-mail
+20:33:04.036 [TestNG-tests-1] INFO  resources.Base - Successfully navigated to login page
+20:33:04.180 [TestNG-tests-1] INFO  resources.Base - Successfully entered user name
+20:33:04.309 [TestNG-tests-1] INFO  resources.Base - Successfully entered password
+20:33:04.309 [TestNG-tests-1] INFO  resources.Base - Non Restricted User
+20:33:04.682 [TestNG-tests-1] INFO  resources.Base - Successfully clicked on login button

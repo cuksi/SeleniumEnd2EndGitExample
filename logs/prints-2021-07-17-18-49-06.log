@@ -1,0 +1,7 @@
+18:46:56.941 [TestNG-tests-1] INFO  resources.Base - Driver is initialized
+18:46:59.450 [TestNG-tests-1] INFO  resources.Base - Navigated to home page
+18:47:00.902 [TestNG-tests-1] INFO  resources.Base - Successfully navigated to login page
+18:47:00.954 [TestNG-tests-1] INFO  resources.Base - Successfully entered user name
+18:47:00.990 [TestNG-tests-1] INFO  resources.Base - Successfully entered password
+18:47:00.991 [TestNG-tests-1] INFO  resources.Base - Restricted User
+18:47:01.297 [TestNG-tests-1] INFO  resources.Base - Successfully clicked on login button

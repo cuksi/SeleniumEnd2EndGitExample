@@ -1,0 +1,7 @@
+23:03:05.147 [TestNG-tests-1] INFO  resources.Base - Driver is initialized
+23:03:09.509 [TestNG-tests-1] INFO  resources.Base - Navigated to home page
+23:03:11.569 [TestNG-tests-2] INFO  resources.Base - Navigated to home page
+23:03:11.693 [TestNG-tests-2] INFO  resources.Base - Navigation bar is displayed
+23:03:12.725 [TestNG-tests-1] INFO  resources.Base - Successfully navigated to login page
+23:03:12.926 [TestNG-tests-1] INFO  resources.Base - Successfully entered user name
+23:03:13.052 [TestNG-tests-1] INFO  resources.Base - Successfully entered password
